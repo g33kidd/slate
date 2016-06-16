@@ -10,5 +10,11 @@
   "bugs": {
     "url": "https://github.com/g33kidd/slate/issues"
   },
-  "homepage": "https://github.com/g33kidd/slate#readme"
+  "homepage": "https://github.com/g33kidd/slate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-2",
+    "node-bourbon": "^4.2.8",
+    "yamljs": "^0.2.7"
+  }
 }
